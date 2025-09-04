@@ -1,6 +1,6 @@
 # 👋 Hi, I'm blackcoffee19!
 
-## Code, create, connect—the fullstack way.
+## Not a Fullstack yet, but on the way there ✨
 
 ### 💻 About Me
 - **Fullstack Developer** with hands-on experience across web, mobile, and backend
