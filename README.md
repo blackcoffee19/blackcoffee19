@@ -1,4 +1,4 @@
-# 👋 Hi, I'm blackcoffee19!
+# 👋 Hi, I'm Cat Tuong!
 
 ## Not a Fullstack yet, but on the way there ✨
 
@@ -7,6 +7,7 @@
 - Most used technologies: **JavaScript, C#, ASP.NET, Vue.js, Flutter**
 - Also familiar with: **ReactJS, Java, Spring, PHP, Laravel, .NET Framework**
 - MBTI: **INTJ-T**
+- Age: 25
 
 ### 🚀 Featured Projects
 - My personal project 💙 [VueJS-ChatWeb](https://github.com/blackcoffee19/VueJS-ChatWeb): Real-time chat web app built with Vue.js and Flutter
