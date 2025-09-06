@@ -11,9 +11,9 @@
 ### 🚀 Featured Projects
 - My personal project 💙 [VueJS-ChatWeb](https://github.com/blackcoffee19/VueJS-ChatWeb): Real-time chat web app built with Vue.js and Flutter
 - Team project **BeeHub** suite:
-  - [beehub_flutter_app](https://github.com/blackcoffee19/beehub_flutter_app): Mobile app in Flutter
-  - [beehub-spring-api](https://github.com/blackcoffee19/beehub-spring-api): Spring Boot API backend
-  - [beehub-react-app](https://github.com/blackcoffee19/beehub-react-app): ReactJS web client
+  - [beehub_flutter_app](https://github.com/RailwaySquad/beehub_flutter_app): Mobile app in Flutter
+  - [beehub-spring-api](https://github.com/RailwaySquad/beehub-spring-api): Spring Boot API backend
+  - [beehub-react-app](https://github.com/RailwaySquad/beehub-react-app): ReactJS web client
 - My personal project 💙 [Petshop](https://github.com/blackcoffee19/Petshop): Petshop management system Laravel
 - Team project [RailwaySystem](https://github.com/blackcoffee19/RailwaySystem): Railway system project .NET Framework
 
