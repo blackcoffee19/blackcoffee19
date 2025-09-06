@@ -19,11 +19,7 @@
 - Team project [RailwaySystem](https://github.com/blackcoffee19/RailwaySystem): Railway system project .NET Framework
 
 ### 📈 Recent Activity 
-- [HungDuyCRM-API]
-- [HungDuyFinanceAccounting]
-- [danhgiachatluongdichvu]
-- [QuanLyCongViec]
-
+- Work on Hung Duy Group as a Developer
 ### 🙌  Sorry I'm on work now, I can't reply your messages in LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Đỗ_Ngọc_Cát_Tường-blue?logo=linkedin)](https://www.linkedin.com/in/đỗ-ngọc-cát-tường-634a91175)
 
