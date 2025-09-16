@@ -16,7 +16,7 @@
   - [beehub-spring-api](https://github.com/RailwaySquad/beehub-spring-api): Spring Boot API backend
   - [beehub-react-app](https://github.com/RailwaySquad/beehub-react-app): ReactJS web client
 - My personal project 💙 [Petshop](https://github.com/blackcoffee19/Petshop): Petshop management system Laravel
-- Team project [RailwaySystem](https://github.com/RailwaySquad/RailwaySystem): Railway system project .NET Framework
+- Team project [RailwaySystem](https://github.com/RailwaySquad/RailwaySystem): Railway system project .NET6 Core 
 
 ### 📈 Recent Activity 
 - Work on Hung Duy Group as a Developer
