@@ -10,7 +10,7 @@
 - Age: 25
 
 ### 🚀 Featured Projects
-- My personal project 💙 [VueJS-ChatWeb](https://github.com/blackcoffee19/VueJS-ChatWeb): Real-time chat, video call web & app built with Vue.js and Flutter (Post, comment,...)
+- My personal project 💙 [ChatWork](https://github.com/blackcoffee19/VueJS-ChatWeb): Real-time chat, video call web & app built with **VueJS** and **Flutter** (Post, comment,...)
 - Team project **BeeHub** suite:
   - [beehub_flutter_app](https://github.com/RailwaySquad/beehub_flutter_app): Mobile app in Flutter
   - [beehub-spring-api](https://github.com/RailwaySquad/beehub-spring-api): Spring Boot API backend
